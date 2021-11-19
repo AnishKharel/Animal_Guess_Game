@@ -1,0 +1,11 @@
+Does the animal have hooves?
+Does it have stripes?
+Does it fly?
+QLDoes it swim?
+Zebra
+Horse
+QLdoes it have magic?
+Giraffe
+Fish
+Pegasus
+GRWitch

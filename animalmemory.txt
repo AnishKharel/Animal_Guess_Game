@@ -1,0 +1,8 @@
+ 
+Does the animal have hooves?
+Does it have stripes?
+Does it fly?
+Zebras
+Horse
+Pegasus
+Giraffe
